@@ -1,4 +1,4 @@
-namespace HCI.Assistant.Api.Models.DTOs.AIAssistantController;
+namespace HCI.AIAssistant.API.Models.DTOs.AIAssistantController;
 
 public class AIAssistantControllerPostMessageRequestDTO
 {
