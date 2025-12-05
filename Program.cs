@@ -73,4 +73,5 @@ Console.WriteLine(app.Services.GetService<IAppConfigurationsService>()?
 Console.WriteLine(app.Services.GetService<IAppConfigurationsService>()?
 .IoTDeviceName);
 
+Console.WriteLine(app.Services.GetService<IAppConfigurationsService>()?.Instruction);
 app.Run();
