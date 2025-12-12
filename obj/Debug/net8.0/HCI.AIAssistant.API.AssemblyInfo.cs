@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HCI.AIAssistant.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2900471cbd9938db26565291a759aa466d86ab9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aebdbea071625ff2b306cae3e53c808d96f1cde0")]
 [assembly: System.Reflection.AssemblyProductAttribute("HCI.AIAssistant.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HCI.AIAssistant.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
